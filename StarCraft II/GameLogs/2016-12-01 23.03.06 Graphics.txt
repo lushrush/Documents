@@ -1,0 +1,44 @@
+﻿GFX  23:03:06.306 ====================================================================================================
+GFX  23:03:06.306 StarCraft II (B48258)
+GFX  23:03:06.306 
+GFX  23:03:06.306 Executable              C:\Program Files (x86)\StarCraft II\Versions\Base48258\SC2_x64.exe
+GFX  23:03:06.306 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  23:03:06.306 Parent Executable       \Device\HarddiskVolume4\Program Files (x86)\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  23:03:06.306 Grandparent Executable  \Device\HarddiskVolume4\Program Files (x86)\Battle.net\Battle.net.8180\Battle.net.exe
+GFX  23:03:06.306 LocalTime               2016-12-01 23:03:06.307
+GFX  23:03:06.306 <ComputerUser>          Ross
+GFX  23:03:06.306 <ComputerName>          DESKTOP-O95JHBQ
+GFX  23:03:06.306 <Exe.Architecture>      x86_64
+GFX  23:03:06.306 <Version>               3.8.0.48258
+GFX  23:03:06.306 <DataBuild>             B48258
+GFX  23:03:06.306 <CodeBranch>            branches/SC2.3.8
+GFX  23:03:06.306 <CodeRevision>          347859
+GFX  23:03:06.306 <Locale.Assets>         enUS
+GFX  23:03:06.306 <Locale.Data>           enUS
+GFX  23:03:06.306 <Locale.Install>        enUS
+GFX  23:03:06.306 <AccountCountry>        USA
+GFX  23:03:06.306 <AgentVersion>          2.8.1.5296
+GFX  23:03:06.306 ====================================================================================================
+GFX  23:03:06.306 DXGI: Available
+GFX  23:03:06.426 Resource Cache Override Variable: 0MB
+GFX  23:03:06.426 Resource Cache: 1516MB Win64 (6067MB Physical, 6235MB Process Virtual)
+GFX  23:03:06.426 Resource Cache Sound:  151MB 
+GFX  23:03:06.426 Resource Cache Common: 1364MB 
+GFX  23:03:06.426 Resource Cache VRam:   0MB
+GFX  23:03:06.426 Adapter [0]: Intel(R) HD Graphics Family (VendorID 0x8086 DeviceID 0xa16)
+GFX  23:03:06.426 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xa16)
+GFX  23:03:06.435 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  23:03:06.435 CreateDevice succeeded
+GFX  23:03:06.435 Using adapter [0]
+GFX  23:03:06.435 Floating point render targets supported.
+GFX  23:03:06.438 DXGI Adapter Name: Intel(R) HD Graphics Family
+GFX  23:03:06.438 VRAM Detected: Dedicated [112MB] Shared [3033MB] (DXGI)
+GFX  23:03:06.438 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  23:03:06.438 Initialized D3D9 GraphicsDevice: Intel(R) HD Graphics Family (Driver Version: 10.18.15.4248, VRAM: 112MB, SVMEM: 3033MB).
+GFX  23:03:06.441 Expanded VRAM to 512MB for Intel GPU
+GFX  23:03:06.441 VRAM texture space: 384MB
+GFX  23:03:07.513 PerfNotifiers initialized
+GFX  23:03:07.526 Lost D3D9 device
+GFX  23:03:07.531 
+GFX  23:03:07.531 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:07:40.908 Lost D3D9 device

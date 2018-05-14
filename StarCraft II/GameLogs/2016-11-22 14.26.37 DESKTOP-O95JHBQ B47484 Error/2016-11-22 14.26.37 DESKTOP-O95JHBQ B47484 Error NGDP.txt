@@ -1,0 +1,98 @@
+﻿DIAG_BUFFER_ERROR
+[20161121T18:20:13] {a44} ERR: [6WMr:1012] 23.197.50.26 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:13] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:13] {a44} WRN: Parse failure, h=3432 (23.197.50.26:80), e=2
+[20161121T18:20:13] {a44} ERR: [6WMr:1012] 8.253.44.190 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:13] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:13] {a44} WRN: Parse failure, h=3432 (8.253.44.190:80), e=2
+[20161121T18:20:13] {a44} ERR: [6WMr:1012] 23.197.50.25 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:13] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:13] {a44} WRN: Parse failure, h=3432 (23.197.50.25:80), e=2
+[20161121T18:20:13] {a44} ERR: [6WMr:1012] 23.197.50.26 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:13] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:13] {a44} WRN: Parse failure, h=3432 (23.197.50.26:80), e=2
+[20161121T18:20:13] {a44} ERR: [6WMr:1012] 8.253.44.190 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:13] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:13] {a44} WRN: Parse failure, h=3432 (8.253.44.190:80), e=2
+[20161121T18:20:13] {a44} ERR: [6WMr:1012] 23.197.50.25 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:13] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:13] {a44} WRN: Parse failure, h=3432 (23.197.50.25:80), e=2
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 23.197.50.26 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.26:80), e=2
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 8.253.44.190 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (8.253.44.190:80), e=2
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 23.197.50.25 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.25:80), e=2
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 23.197.50.26 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.26:80), e=2
+[20161121T18:20:14] {a44} WRN: [6WMr:1012]: req dl error (COMPLETION_EXHAUSTED); (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49); 193844480-193924642
+[20161121T18:20:14] {a44} WRN: download failed with status E_NOT_AVAILABLE (DL error 3) for e-key 97dfb9515f6812366ff9c1131b7907ae (archive 48d9841a093fab8b8a2f1d4ce130ac49, e-span {offset=11166,size=80162})
+
+DIAG_BUFFER_INFO
+[20161121T18:20:13] {a44} ERR: [6WMr:1012] 8.253.44.190 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:13] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:13] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:13] {a44} WRN: Parse failure, h=3432 (8.253.44.190:80), e=2
+[20161121T18:20:13] {a44} ERR: [6WMr:1012] 23.197.50.25 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:13] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:13] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:13] {a44} WRN: Parse failure, h=3432 (23.197.50.25:80), e=2
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 23.197.50.26 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.26:80), e=2
+[20161121T18:20:14] {a44} INF: [6WMr:1012] exhausted hosts, resetting for req /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 (193844480-193924642)
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 8.253.44.190 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (8.253.44.190:80), e=2
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 23.197.50.25 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.25:80), e=2
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 23.197.50.26 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.26:80), e=2
+[20161121T18:20:14] {a44} INF: [6WMr:1012] exhausted hosts, resetting for req /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 (193844480-193924642)
+[20161121T18:20:14] {a44} INF: [6WMr:1012] exceeded retries for req /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 (193844480-193924642), giving up
+[20161121T18:20:14] {a44} WRN: [6WMr:1012]: req dl error (COMPLETION_EXHAUSTED); (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49); 193844480-193924642
+[20161121T18:20:14] {a44} WRN: download failed with status E_NOT_AVAILABLE (DL error 3) for e-key 97dfb9515f6812366ff9c1131b7907ae (archive 48d9841a093fab8b8a2f1d4ce130ac49, e-span {offset=11166,size=80162})
+
+DIAG_BUFFER_ALL
+[20161121T18:20:14] {a44} debug: Incrementing content fault counter for ip 23.197.50.26 of host blzddist1-a.akamaihd.net
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.26:80), e=2
+[20161121T18:20:14] {a44} noise: Closing failed socket: handle = 3432, addr = 23.197.50.26:80
+[20161121T18:20:14] {a44} noise: socket failure; closing src 38 (reqs=0)
+[20161121T18:20:14] {a44} INF: [6WMr:1012] exhausted hosts, resetting for req /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 (193844480-193924642)
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 8.253.44.190 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:14] {a44} debug: Incrementing content fault counter for ip 8.253.44.190 of host level3.blizzard.com
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (8.253.44.190:80), e=2
+[20161121T18:20:14] {a44} noise: Closing failed socket: handle = 3432, addr = 8.253.44.190:80
+[20161121T18:20:14] {a44} noise: socket failure; closing src 39 (reqs=0)
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 23.197.50.25 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:14] {a44} debug: Incrementing content fault counter for ip 23.197.50.25 of host blzddist1-a.akamaihd.net
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.25:80), e=2
+[20161121T18:20:14] {a44} noise: Closing failed socket: handle = 3432, addr = 23.197.50.25:80
+[20161121T18:20:14] {a44} noise: socket failure; closing src 40 (reqs=0)
+[20161121T18:20:14] {a44} ERR: [6WMr:1012] 23.197.50.26 HTTP error; (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49), ver=1.1, code=404
+[20161121T18:20:14] {a44} INF: Got bad content response: id = 1012, path = /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49, length = 0, content =                  <HT
+[20161121T18:20:14] {a44} debug: Incrementing content fault counter for ip 23.197.50.26 of host blzddist1-a.akamaihd.net
+[20161121T18:20:14] {a44} WRN: [6WMr:1012] Req hndl error (COMPLETION_NOT_FOUND); /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 193844480-193924642
+[20161121T18:20:14] {a44} WRN: Parse failure, h=3432 (23.197.50.26:80), e=2
+[20161121T18:20:14] {a44} noise: Closing failed socket: handle = 3432, addr = 23.197.50.26:80
+[20161121T18:20:14] {a44} noise: socket failure; closing src 41 (reqs=0)
+[20161121T18:20:14] {a44} INF: [6WMr:1012] exhausted hosts, resetting for req /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 (193844480-193924642)
+[20161121T18:20:14] {a44} INF: [6WMr:1012] exceeded retries for req /tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49 (193844480-193924642), giving up
+[20161121T18:20:14] {a44} WRN: [6WMr:1012]: req dl error (COMPLETION_EXHAUSTED); (/tpr/sc2/data/48/d9/48d9841a093fab8b8a2f1d4ce130ac49); 193844480-193924642
+[20161121T18:20:14] {a44} WRN: download failed with status E_NOT_AVAILABLE (DL error 3) for e-key 97dfb9515f6812366ff9c1131b7907ae (archive 48d9841a093fab8b8a2f1d4ce130ac49, e-span {offset=11166,size=80162})
+[20161121T18:20:14] {19c4} noise: Game sent error report: e_errorIdStreaming (NGDP:E_NOT_AVAILABLE) from CRequest::MakeLocalCallback(), C-Key:6F6A5559EF2EFB9A37E8B42AFC82D28D

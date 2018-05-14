@@ -1,0 +1,500 @@
+﻿1,448,079,937ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,079,937ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,079,937ms                                                                                              s_pauseEvent.set()
+1,448,079,937ms                                                                                              s_pauseEvent.reset()
+1,448,079,937ms ID:00012E5C Pr:0505200F           128 +        32,768 5AAA3B179D7A5F6F4A80FA9E7FE1738C       CDownloadStarter::StartDownload(): Starting Download "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_red01.dds"
+1,448,079,937ms ID:00012E5C Pr:0505200F           128 +        32,768 5AAA3B179D7A5F6F4A80FA9E7FE1738C       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_red01.dds"
+1,448,079,937ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,079,937ms ID:00012E5C Pr:0505200F           128 +        32,768 5AAA3B179D7A5F6F4A80FA9E7FE1738C (780) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_red01.dds"
+1,448,079,937ms ID:0001377D Pr:0505200E     1,048,704 +       262,144 D8DDE0C71554E749ED35382FABE9AB21 (779) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\ui_screens_mainmenudefaultvoid_clouds01_emis.dds"
+1,448,080,031ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,080,031ms ID:00012E5C Pr:0505200F           128 +        32,768 5AAA3B179D7A5F6F4A80FA9E7FE1738C (780) MakeLocalCallback(): Succeeded (deferred) "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_red01.dds"
+1,448,080,031ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,080,031ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,031ms                                                                                              s_pauseEvent.set()
+1,448,080,031ms                                                                                              s_pauseEvent.reset()
+1,448,080,031ms ID:00012E63 Pr:0505200F           128 +        65,536 11A0CEA1BC0D36B40AF08C69D7BC5089       CDownloadStarter::StartDownload(): Starting Download "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\con_terran.dds"
+1,448,080,031ms ID:00012E63 Pr:0505200F           128 +        65,536 11A0CEA1BC0D36B40AF08C69D7BC5089       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\con_terran.dds"
+1,448,080,031ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,031ms ID:00012E63 Pr:0505200F           128 +        65,536 11A0CEA1BC0D36B40AF08C69D7BC5089 (781) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\con_terran.dds"
+1,448,080,031ms ID:00012E5C Pr:0505200F           128 +        32,768 5AAA3B179D7A5F6F4A80FA9E7FE1738C (780) ReleaseRequest(): Success "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_red01.dds"
+1,448,080,203ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,080,203ms ID:00012E63 Pr:0505200F           128 +        65,536 11A0CEA1BC0D36B40AF08C69D7BC5089 (781) MakeLocalCallback(): Succeeded (deferred) "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\con_terran.dds"
+1,448,080,203ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,080,203ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,203ms                                                                                              s_pauseEvent.set()
+1,448,080,203ms                                                                                              s_pauseEvent.reset()
+1,448,080,203ms ID:00012E66 Pr:0505200F           128 +        16,384 D5AFBE0808D85EFA38FC945F5319BD0F       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2red.dds"
+1,448,080,203ms ID:00012E66 Pr:0505200F           128 +        16,384 D5AFBE0808D85EFA38FC945F5319BD0F       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2red.dds"
+1,448,080,203ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,203ms                                                                                              NGDP:AsyncMakeLocal(): E_SUCCESS, CAsync* 0x000001AEA59729A0
+1,448,080,203ms ID:00012E66 Pr:0505200F           128 +        16,384 D5AFBE0808D85EFA38FC945F5319BD0F       MakeLocalCallback(): Succeeded (immediate) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2red.dds"
+1,448,080,203ms ID:00012E66 Pr:0505200F           128 +        16,384 D5AFBE0808D85EFA38FC945F5319BD0F       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2red.dds"
+1,448,080,203ms ID:00012E63 Pr:0505200F           128 +        65,536 11A0CEA1BC0D36B40AF08C69D7BC5089 (781) ReleaseRequest(): Success "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\con_terran.dds"
+1,448,080,203ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,203ms                                                                                              s_pauseEvent.set()
+1,448,080,203ms                                                                                              s_pauseEvent.reset()
+1,448,080,203ms ID:00012FDA Pr:0505200F           128 +       262,144 444B4B997182A940D7B9DCD8377AA135       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\zergeggpodsculptedgreen_diffuse.dds"
+1,448,080,203ms ID:00012FDA Pr:0505200F           128 +       262,144 444B4B997182A940D7B9DCD8377AA135       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\zergeggpodsculptedgreen_diffuse.dds"
+1,448,080,203ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,203ms ID:00012FDA Pr:0505200F           128 +       262,144 444B4B997182A940D7B9DCD8377AA135 (782) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\zergeggpodsculptedgreen_diffuse.dds"
+1,448,080,203ms ID:00012E66 Pr:0505200F           128 +        16,384 D5AFBE0808D85EFA38FC945F5319BD0F       ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2red.dds"
+1,448,080,296ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,080,296ms ID:00012FDA Pr:0505200F           128 +       262,144 444B4B997182A940D7B9DCD8377AA135 (782) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\zergeggpodsculptedgreen_diffuse.dds"
+1,448,080,296ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,080,296ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,296ms                                                                                              s_pauseEvent.set()
+1,448,080,296ms                                                                                              s_pauseEvent.reset()
+1,448,080,296ms ID:00012FDF Pr:0505200F           128 +        65,536 EB4986229088D6FEFB55F1A11834AD77       CDownloadStarter::StartDownload(): Starting Download "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\rallyzerg.dds"
+1,448,080,296ms ID:00012FDF Pr:0505200F           128 +        65,536 EB4986229088D6FEFB55F1A11834AD77       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\rallyzerg.dds"
+1,448,080,296ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,312ms ID:00012FDF Pr:0505200F           128 +        65,536 EB4986229088D6FEFB55F1A11834AD77 (783) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\rallyzerg.dds"
+1,448,080,312ms ID:00012FDA Pr:0505200F           128 +       262,144 444B4B997182A940D7B9DCD8377AA135 (782) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\zergeggpodsculptedgreen_diffuse.dds"
+1,448,080,546ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,080,546ms ID:00012FDF Pr:0505200F           128 +        65,536 EB4986229088D6FEFB55F1A11834AD77 (783) MakeLocalCallback(): Succeeded (deferred) "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\rallyzerg.dds"
+1,448,080,546ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,080,546ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,546ms                                                                                              s_pauseEvent.set()
+1,448,080,546ms                                                                                              s_pauseEvent.reset()
+1,448,080,546ms ID:00012FE3 Pr:0505200F           128 +        32,768 5D75BDBBD5D7C929F2226C2CB3556DA6       CDownloadStarter::StartDownload(): Starting Download "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_green02.dds"
+1,448,080,546ms ID:00012FE3 Pr:0505200F           128 +        32,768 5D75BDBBD5D7C929F2226C2CB3556DA6       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_green02.dds"
+1,448,080,546ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,546ms                                                                                              NGDP:AsyncMakeLocal(): E_SUCCESS, CAsync* 0x000001AEA59729A0
+1,448,080,546ms ID:00012FE3 Pr:0505200F           128 +        32,768 5D75BDBBD5D7C929F2226C2CB3556DA6       MakeLocalCallback(): Succeeded (immediate) "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_green02.dds"
+1,448,080,546ms ID:00012FE3 Pr:0505200F           128 +        32,768 5D75BDBBD5D7C929F2226C2CB3556DA6       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_green02.dds"
+1,448,080,546ms ID:00012FDF Pr:0505200F           128 +        65,536 EB4986229088D6FEFB55F1A11834AD77 (783) ReleaseRequest(): Success "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\rallyzerg.dds"
+1,448,080,546ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,546ms                                                                                              s_pauseEvent.set()
+1,448,080,546ms                                                                                              s_pauseEvent.reset()
+1,448,080,546ms ID:00012FEB Pr:0505200F           128 +        65,536 783F9533C32773169B9C179E37AF4DE3       CDownloadStarter::StartDownload(): Starting Download "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_waypointmove_ringmpvoid.dds"
+1,448,080,546ms ID:00012FEB Pr:0505200F           128 +        65,536 783F9533C32773169B9C179E37AF4DE3       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_waypointmove_ringmpvoid.dds"
+1,448,080,546ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,546ms ID:00012FEB Pr:0505200F           128 +        65,536 783F9533C32773169B9C179E37AF4DE3 (784) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_waypointmove_ringmpvoid.dds"
+1,448,080,546ms ID:00012FE3 Pr:0505200F           128 +        32,768 5D75BDBBD5D7C929F2226C2CB3556DA6       ReleaseRequest(): Success "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ping_square_green02.dds"
+1,448,080,656ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,080,656ms ID:00012FEB Pr:0505200F           128 +        65,536 783F9533C32773169B9C179E37AF4DE3 (784) MakeLocalCallback(): Succeeded (deferred) "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_waypointmove_ringmpvoid.dds"
+1,448,080,656ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,080,656ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,656ms                                                                                              s_pauseEvent.set()
+1,448,080,656ms                                                                                              s_pauseEvent.reset()
+1,448,080,656ms ID:00013006 Pr:0505200F           128 +         8,192 055D3DD987D2537C052A38696B41B7B2       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2.dds"
+1,448,080,671ms ID:00013006 Pr:0505200F           128 +         8,192 055D3DD987D2537C052A38696B41B7B2       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2.dds"
+1,448,080,671ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,671ms                                                                                              NGDP:AsyncMakeLocal(): E_SUCCESS, CAsync* 0x000001AEA59729A0
+1,448,080,671ms ID:00013006 Pr:0505200F           128 +         8,192 055D3DD987D2537C052A38696B41B7B2       MakeLocalCallback(): Succeeded (immediate) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2.dds"
+1,448,080,671ms ID:00013006 Pr:0505200F           128 +         8,192 055D3DD987D2537C052A38696B41B7B2       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2.dds"
+1,448,080,671ms ID:00012FEB Pr:0505200F           128 +        65,536 783F9533C32773169B9C179E37AF4DE3 (784) ReleaseRequest(): Success "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_waypointmove_ringmpvoid.dds"
+1,448,080,671ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,671ms                                                                                              s_pauseEvent.set()
+1,448,080,671ms                                                                                              s_pauseEvent.reset()
+1,448,080,671ms ID:0001300D Pr:0505200F           128 +        65,536 9E40D4037FC6FA7DEDC4BEF512EF942F       CDownloadStarter::StartDownload(): Starting Download "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_attackmove_ringlmp_void.dds"
+1,448,080,671ms ID:0001300D Pr:0505200F           128 +        65,536 9E40D4037FC6FA7DEDC4BEF512EF942F       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_attackmove_ringlmp_void.dds"
+1,448,080,671ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,671ms ID:0001300D Pr:0505200F           128 +        65,536 9E40D4037FC6FA7DEDC4BEF512EF942F (785) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_attackmove_ringlmp_void.dds"
+1,448,080,671ms ID:00013006 Pr:0505200F           128 +         8,192 055D3DD987D2537C052A38696B41B7B2       ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\con2.dds"
+1,448,080,781ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,080,781ms ID:0001300D Pr:0505200F           128 +        65,536 9E40D4037FC6FA7DEDC4BEF512EF942F (785) MakeLocalCallback(): Succeeded (deferred) "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_attackmove_ringlmp_void.dds"
+1,448,080,781ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,080,781ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,781ms                                                                                              s_pauseEvent.set()
+1,448,080,781ms                                                                                              s_pauseEvent.reset()
+1,448,080,781ms ID:00013016 Pr:0505200F           128 +        65,536 247B3BB36E4786BB538A679375FE4A65       CDownloadStarter::StartDownload(): Starting Download "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\con5_void2.dds"
+1,448,080,781ms ID:00013016 Pr:0505200F           128 +        65,536 247B3BB36E4786BB538A679375FE4A65       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\con5_void2.dds"
+1,448,080,781ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,796ms ID:00013016 Pr:0505200F           128 +        65,536 247B3BB36E4786BB538A679375FE4A65 (786) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\con5_void2.dds"
+1,448,080,796ms ID:0001300D Pr:0505200F           128 +        65,536 9E40D4037FC6FA7DEDC4BEF512EF942F (785) ReleaseRequest(): Success "Mods\Void.SC2Mod\Base.SC2Assets" "assets\textures\ui_attackmove_ringlmp_void.dds"
+1,448,080,906ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,080,906ms ID:00013016 Pr:0505200F           128 +        65,536 247B3BB36E4786BB538A679375FE4A65 (786) MakeLocalCallback(): Succeeded (deferred) "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\con5_void2.dds"
+1,448,080,906ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,080,906ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,080,906ms                                                                                              s_pauseEvent.set()
+1,448,080,906ms                                                                                              s_pauseEvent.reset()
+1,448,080,906ms ID:00013018 Pr:0505200F           128 +        32,768 9D9480377B177D4039882FC8F8E48E53       CDownloadStarter::StartDownload(): Starting Download "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\aoe_splatterran2.dds"
+1,448,080,906ms ID:00013018 Pr:0505200F           128 +        32,768 9D9480377B177D4039882FC8F8E48E53       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\aoe_splatterran2.dds"
+1,448,080,906ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,080,906ms ID:00013018 Pr:0505200F           128 +        32,768 9D9480377B177D4039882FC8F8E48E53 (787) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\aoe_splatterran2.dds"
+1,448,080,906ms ID:00013016 Pr:0505200F           128 +        65,536 247B3BB36E4786BB538A679375FE4A65 (786) ReleaseRequest(): Success "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\con5_void2.dds"
+1,448,081,265ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,081,265ms ID:00013018 Pr:0505200F           128 +        32,768 9D9480377B177D4039882FC8F8E48E53 (787) MakeLocalCallback(): Succeeded (deferred) "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\aoe_splatterran2.dds"
+1,448,081,265ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,081,265ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,081,265ms                                                                                              s_pauseEvent.set()
+1,448,081,265ms                                                                                              s_pauseEvent.reset()
+1,448,081,265ms ID:0001301E Pr:0505200F           128 +        65,536 7339582015D9F936604019B4AACD1DEA       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\fireball_1.dds"
+1,448,081,265ms ID:0001301E Pr:0505200F           128 +        65,536 7339582015D9F936604019B4AACD1DEA       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\fireball_1.dds"
+1,448,081,265ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,081,281ms ID:0001301E Pr:0505200F           128 +        65,536 7339582015D9F936604019B4AACD1DEA (788) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\fireball_1.dds"
+1,448,081,281ms ID:00013018 Pr:0505200F           128 +        32,768 9D9480377B177D4039882FC8F8E48E53 (787) ReleaseRequest(): Success "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\aoe_splatterran2.dds"
+1,448,081,406ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,081,406ms ID:0001301E Pr:0505200F           128 +        65,536 7339582015D9F936604019B4AACD1DEA (788) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\fireball_1.dds"
+1,448,081,406ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,081,406ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,081,406ms                                                                                              s_pauseEvent.set()
+1,448,081,406ms                                                                                              s_pauseEvent.reset()
+1,448,081,406ms ID:000130F9 Pr:0505200F           128 +        65,536 4C26FED4FD0BC5D38BB415AF2BFB9578       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\gen_splat3.dds"
+1,448,081,406ms ID:000130F9 Pr:0505200F           128 +        65,536 4C26FED4FD0BC5D38BB415AF2BFB9578       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\gen_splat3.dds"
+1,448,081,406ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,081,406ms ID:000130F9 Pr:0505200F           128 +        65,536 4C26FED4FD0BC5D38BB415AF2BFB9578 (789) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\gen_splat3.dds"
+1,448,081,406ms ID:0001301E Pr:0505200F           128 +        65,536 7339582015D9F936604019B4AACD1DEA (788) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\fireball_1.dds"
+1,448,081,484ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,081,484ms ID:000130F9 Pr:0505200F           128 +        65,536 4C26FED4FD0BC5D38BB415AF2BFB9578 (789) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\gen_splat3.dds"
+1,448,081,484ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,081,484ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,081,484ms                                                                                              s_pauseEvent.set()
+1,448,081,484ms                                                                                              s_pauseEvent.reset()
+1,448,081,484ms ID:00013124 Pr:0505200F           128 +        32,768 16F1A382149AE49E21B2BE8690D572B6       CDownloadStarter::StartDownload(): Starting Download "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\largeshorelinewave_alpha.dds"
+1,448,081,484ms ID:00013124 Pr:0505200F           128 +        32,768 16F1A382149AE49E21B2BE8690D572B6       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\largeshorelinewave_alpha.dds"
+1,448,081,484ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,081,484ms ID:00013124 Pr:0505200F           128 +        32,768 16F1A382149AE49E21B2BE8690D572B6 (790) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\largeshorelinewave_alpha.dds"
+1,448,081,484ms ID:000130F9 Pr:0505200F           128 +        65,536 4C26FED4FD0BC5D38BB415AF2BFB9578 (789) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\gen_splat3.dds"
+1,448,081,562ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,081,562ms ID:00013124 Pr:0505200F           128 +        32,768 16F1A382149AE49E21B2BE8690D572B6 (790) MakeLocalCallback(): Succeeded (deferred) "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\largeshorelinewave_alpha.dds"
+1,448,081,562ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,081,562ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,081,562ms                                                                                              s_pauseEvent.set()
+1,448,081,562ms                                                                                              s_pauseEvent.reset()
+1,448,081,562ms ID:00013128 Pr:0505200F           128 +        65,536 FE1C2F1DDE68E8E4927FDCAB357BC576       CDownloadStarter::StartDownload(): Starting Download "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\shockwave1_wake.dds"
+1,448,081,562ms ID:00013128 Pr:0505200F           128 +        65,536 FE1C2F1DDE68E8E4927FDCAB357BC576       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\shockwave1_wake.dds"
+1,448,081,562ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,081,562ms ID:00013128 Pr:0505200F           128 +        65,536 FE1C2F1DDE68E8E4927FDCAB357BC576 (791) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\shockwave1_wake.dds"
+1,448,081,562ms ID:00013124 Pr:0505200F           128 +        32,768 16F1A382149AE49E21B2BE8690D572B6 (790) ReleaseRequest(): Success "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\largeshorelinewave_alpha.dds"
+1,448,081,625ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,081,625ms ID:00013128 Pr:0505200F           128 +        65,536 FE1C2F1DDE68E8E4927FDCAB357BC576 (791) MakeLocalCallback(): Succeeded (deferred) "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\shockwave1_wake.dds"
+1,448,081,625ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,081,625ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,081,625ms                                                                                              s_pauseEvent.set()
+1,448,081,625ms                                                                                              s_pauseEvent.reset()
+1,448,081,625ms ID:00013135 Pr:0505200F           128 +       131,072 1BF686B2BFD76F9E460E095C8E993594       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\smokewetsilhouettealpha.dds"
+1,448,081,625ms ID:00013135 Pr:0505200F           128 +       131,072 1BF686B2BFD76F9E460E095C8E993594       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\smokewetsilhouettealpha.dds"
+1,448,081,625ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,081,625ms ID:00013135 Pr:0505200F           128 +       131,072 1BF686B2BFD76F9E460E095C8E993594 (792) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\smokewetsilhouettealpha.dds"
+1,448,081,625ms ID:00013128 Pr:0505200F           128 +        65,536 FE1C2F1DDE68E8E4927FDCAB357BC576 (791) ReleaseRequest(): Success "Mods\Swarm.SC2Mod\Base.SC2Assets" "assets\textures\shockwave1_wake.dds"
+1,448,081,781ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,081,781ms ID:00013135 Pr:0505200F           128 +       131,072 1BF686B2BFD76F9E460E095C8E993594 (792) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\smokewetsilhouettealpha.dds"
+1,448,081,781ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,081,781ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,081,781ms                                                                                              s_pauseEvent.set()
+1,448,081,781ms                                                                                              s_pauseEvent.reset()
+1,448,081,781ms ID:0001314E Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smokecloud1.dds"
+1,448,081,781ms ID:0001314E Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smokecloud1.dds"
+1,448,081,781ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,081,781ms ID:0001314E Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E (793) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smokecloud1.dds"
+1,448,081,781ms ID:00013135 Pr:0505200F           128 +       131,072 1BF686B2BFD76F9E460E095C8E993594 (792) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\smokewetsilhouettealpha.dds"
+1,448,082,937ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,082,937ms ID:0001314E Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E (793) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smokecloud1.dds"
+1,448,082,937ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,082,937ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,082,937ms                                                                                              s_pauseEvent.set()
+1,448,082,937ms                                                                                              s_pauseEvent.reset()
+1,448,082,937ms ID:0001351A Pr:0505200F           128 +        32,768 12A4162F096A577B5D767E81CB5F5518       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_noise.dds"
+1,448,082,937ms ID:0001351A Pr:0505200F           128 +        32,768 12A4162F096A577B5D767E81CB5F5518       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_noise.dds"
+1,448,082,937ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,082,937ms ID:0001351A Pr:0505200F           128 +        32,768 12A4162F096A577B5D767E81CB5F5518 (794) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_noise.dds"
+1,448,082,937ms ID:0001314E Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E (793) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smokecloud1.dds"
+1,448,083,031ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,083,031ms ID:0001351A Pr:0505200F           128 +        32,768 12A4162F096A577B5D767E81CB5F5518 (794) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_noise.dds"
+1,448,083,031ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,083,031ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,083,031ms                                                                                              s_pauseEvent.set()
+1,448,083,031ms                                                                                              s_pauseEvent.reset()
+1,448,083,031ms ID:0001351B Pr:0505200F           128 +        32,768 CC741F13D644F0D895BAE1480CCC313A       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\portraitvideogrids.dds"
+1,448,083,031ms ID:0001351B Pr:0505200F           128 +        32,768 CC741F13D644F0D895BAE1480CCC313A       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\portraitvideogrids.dds"
+1,448,083,031ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,083,031ms                                                                                              NGDP:AsyncMakeLocal(): E_SUCCESS, CAsync* 0x000001AEA59729A0
+1,448,083,031ms ID:0001351B Pr:0505200F           128 +        32,768 CC741F13D644F0D895BAE1480CCC313A       MakeLocalCallback(): Succeeded (immediate) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\portraitvideogrids.dds"
+1,448,083,031ms ID:0001351B Pr:0505200F           128 +        32,768 CC741F13D644F0D895BAE1480CCC313A       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\portraitvideogrids.dds"
+1,448,083,031ms ID:0001351A Pr:0505200F           128 +        32,768 12A4162F096A577B5D767E81CB5F5518 (794) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_noise.dds"
+1,448,083,031ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,083,031ms                                                                                              s_pauseEvent.set()
+1,448,083,031ms                                                                                              s_pauseEvent.reset()
+1,448,083,031ms ID:00013522 Pr:0505200F           128 +        65,536 8D0A443D7426FE2BBAEF77CB704489E2       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_2x4.dds"
+1,448,083,031ms ID:00013522 Pr:0505200F           128 +        65,536 8D0A443D7426FE2BBAEF77CB704489E2       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_2x4.dds"
+1,448,083,031ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,083,031ms ID:00013522 Pr:0505200F           128 +        65,536 8D0A443D7426FE2BBAEF77CB704489E2 (795) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_2x4.dds"
+1,448,083,031ms ID:0001351B Pr:0505200F           128 +        32,768 CC741F13D644F0D895BAE1480CCC313A       ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\portraitvideogrids.dds"
+1,448,083,125ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,083,125ms ID:00013522 Pr:0505200F           128 +        65,536 8D0A443D7426FE2BBAEF77CB704489E2 (795) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_2x4.dds"
+1,448,083,125ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,083,125ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,083,125ms                                                                                              s_pauseEvent.set()
+1,448,083,125ms                                                                                              s_pauseEvent.reset()
+1,448,083,125ms ID:00013541 Pr:0505200F           128 +     1,048,576 F61F04277A959E0CCCCBADA4070F8EF5       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_emiss.dds"
+1,448,083,125ms ID:00013541 Pr:0505200F           128 +     1,048,576 F61F04277A959E0CCCCBADA4070F8EF5       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_emiss.dds"
+1,448,083,125ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,083,125ms ID:00013541 Pr:0505200F           128 +     1,048,576 F61F04277A959E0CCCCBADA4070F8EF5 (796) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_emiss.dds"
+1,448,083,125ms ID:00013522 Pr:0505200F           128 +        65,536 8D0A443D7426FE2BBAEF77CB704489E2 (795) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\terranportraittransition_2x4.dds"
+1,448,083,218ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,083,218ms ID:00013541 Pr:0505200F           128 +     1,048,576 F61F04277A959E0CCCCBADA4070F8EF5 (796) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_emiss.dds"
+1,448,083,218ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,083,218ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,083,218ms                                                                                              s_pauseEvent.set()
+1,448,083,218ms                                                                                              s_pauseEvent.reset()
+1,448,083,218ms ID:00013547 Pr:0505200F           128 +     1,048,576 77B8BF36783F484335875637D3F74FE7       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_normal.dds"
+1,448,083,218ms ID:00013547 Pr:0505200F           128 +     1,048,576 77B8BF36783F484335875637D3F74FE7       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_normal.dds"
+1,448,083,218ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,083,218ms ID:00013547 Pr:0505200F           128 +     1,048,576 77B8BF36783F484335875637D3F74FE7 (797) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_normal.dds"
+1,448,083,218ms ID:00013541 Pr:0505200F           128 +     1,048,576 F61F04277A959E0CCCCBADA4070F8EF5 (796) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_emiss.dds"
+1,448,083,843ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,083,843ms ID:00013547 Pr:0505200F           128 +     1,048,576 77B8BF36783F484335875637D3F74FE7 (797) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_normal.dds"
+1,448,083,843ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,083,843ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,083,843ms                                                                                              s_pauseEvent.set()
+1,448,083,843ms                                                                                              s_pauseEvent.reset()
+1,448,083,843ms ID:0001354D Pr:0505200F           128 +       524,288 1E64C86FF3DEB13EA28A7FAB9AC103D5       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\cloakblobtile.dds"
+1,448,083,843ms ID:0001354D Pr:0505200F           128 +       524,288 1E64C86FF3DEB13EA28A7FAB9AC103D5       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\cloakblobtile.dds"
+1,448,083,843ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,083,843ms ID:0001354D Pr:0505200F           128 +       524,288 1E64C86FF3DEB13EA28A7FAB9AC103D5 (798) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\cloakblobtile.dds"
+1,448,083,843ms ID:00013547 Pr:0505200F           128 +     1,048,576 77B8BF36783F484335875637D3F74FE7 (797) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\colossus_normal.dds"
+1,448,084,343ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,084,343ms ID:0001354D Pr:0505200F           128 +       524,288 1E64C86FF3DEB13EA28A7FAB9AC103D5 (798) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\cloakblobtile.dds"
+1,448,084,343ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,084,343ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,084,343ms                                                                                              s_pauseEvent.set()
+1,448,084,343ms                                                                                              s_pauseEvent.reset()
+1,448,084,343ms ID:0001355F Pr:0505200F           128 +       262,144 A2AB3B5AF1A2E8EB649690641D864497       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\ui_screens_zeratul_prologue_starfield_generic_diff.dds"
+1,448,084,343ms ID:0001355F Pr:0505200F           128 +       262,144 A2AB3B5AF1A2E8EB649690641D864497       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\ui_screens_zeratul_prologue_starfield_generic_diff.dds"
+1,448,084,343ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,084,343ms ID:0001355F Pr:0505200F           128 +       262,144 A2AB3B5AF1A2E8EB649690641D864497 (799) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\ui_screens_zeratul_prologue_starfield_generic_diff.dds"
+1,448,084,343ms ID:0001354D Pr:0505200F           128 +       524,288 1E64C86FF3DEB13EA28A7FAB9AC103D5 (798) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\cloakblobtile.dds"
+1,448,085,015ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,085,015ms ID:0001355F Pr:0505200F           128 +       262,144 A2AB3B5AF1A2E8EB649690641D864497 (799) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\ui_screens_zeratul_prologue_starfield_generic_diff.dds"
+1,448,085,015ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,085,015ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,085,015ms                                                                                              s_pauseEvent.set()
+1,448,085,015ms                                                                                              s_pauseEvent.reset()
+1,448,085,015ms ID:00013568 Pr:0505200F           128 +     2,097,152 0A83A79C56C587060154F802BBDDA65C       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\nebula_diff.dds"
+1,448,085,015ms ID:00013568 Pr:0505200F           128 +     2,097,152 0A83A79C56C587060154F802BBDDA65C       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\nebula_diff.dds"
+1,448,085,015ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,085,015ms ID:00013568 Pr:0505200F           128 +     2,097,152 0A83A79C56C587060154F802BBDDA65C (800) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\nebula_diff.dds"
+1,448,085,015ms ID:0001355F Pr:0505200F           128 +       262,144 A2AB3B5AF1A2E8EB649690641D864497 (799) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\ui_screens_zeratul_prologue_starfield_generic_diff.dds"
+1,448,086,187ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,086,187ms ID:00013568 Pr:0505200F           128 +     2,097,152 0A83A79C56C587060154F802BBDDA65C (800) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\nebula_diff.dds"
+1,448,086,187ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,086,187ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,086,187ms                                                                                              s_pauseEvent.set()
+1,448,086,187ms                                                                                              s_pauseEvent.reset()
+1,448,086,187ms ID:0001356F Pr:0505200F           128 +     2,097,152 7A7B6583F74C79648D2944F073F77497       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\slayn_planet2_emis.dds"
+1,448,086,187ms ID:0001356F Pr:0505200F           128 +     2,097,152 7A7B6583F74C79648D2944F073F77497       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\slayn_planet2_emis.dds"
+1,448,086,187ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,086,187ms ID:0001356F Pr:0505200F           128 +     2,097,152 7A7B6583F74C79648D2944F073F77497 (801) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\slayn_planet2_emis.dds"
+1,448,086,187ms ID:00013568 Pr:0505200F           128 +     2,097,152 0A83A79C56C587060154F802BBDDA65C (800) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\nebula_diff.dds"
+1,448,087,218ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,087,218ms ID:0001356F Pr:0505200F           128 +     2,097,152 7A7B6583F74C79648D2944F073F77497 (801) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\slayn_planet2_emis.dds"
+1,448,087,218ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,087,218ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,087,218ms                                                                                              s_pauseEvent.set()
+1,448,087,218ms                                                                                              s_pauseEvent.reset()
+1,448,087,218ms ID:0001357F Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\storm_smokecloud1.dds"
+1,448,087,218ms ID:0001357F Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\storm_smokecloud1.dds"
+1,448,087,218ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,087,218ms                                                                                              NGDP:AsyncMakeLocal(): E_SUCCESS, CAsync* 0x000001AEA59729A0
+1,448,087,218ms ID:0001357F Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E       MakeLocalCallback(): Succeeded (immediate) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\storm_smokecloud1.dds"
+1,448,087,218ms ID:0001357F Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\storm_smokecloud1.dds"
+1,448,087,218ms ID:0001356F Pr:0505200F           128 +     2,097,152 7A7B6583F74C79648D2944F073F77497 (801) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\slayn_planet2_emis.dds"
+1,448,087,218ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,087,218ms                                                                                              s_pauseEvent.set()
+1,448,087,218ms                                                                                              s_pauseEvent.reset()
+1,448,087,218ms ID:00013585 Pr:0505200F           128 +       262,144 9D4E18DFEFEB28A63E10F0480ED4B5A5       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\lensflare_textureset.dds"
+1,448,087,218ms ID:00013585 Pr:0505200F           128 +       262,144 9D4E18DFEFEB28A63E10F0480ED4B5A5       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\lensflare_textureset.dds"
+1,448,087,218ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,087,218ms ID:00013585 Pr:0505200F           128 +       262,144 9D4E18DFEFEB28A63E10F0480ED4B5A5 (802) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\lensflare_textureset.dds"
+1,448,087,218ms ID:0001357F Pr:0505200F           128 +       262,144 743E3CB518D4BCE294283D213C5A581E       ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\storm_smokecloud1.dds"
+1,448,087,812ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,087,812ms ID:00013585 Pr:0505200F           128 +       262,144 9D4E18DFEFEB28A63E10F0480ED4B5A5 (802) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\lensflare_textureset.dds"
+1,448,087,812ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,087,812ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,087,812ms                                                                                              s_pauseEvent.set()
+1,448,087,812ms                                                                                              s_pauseEvent.reset()
+1,448,087,812ms ID:0001358B Pr:0505200F           128 +     1,048,576 70EF8BB7E6F363A23FAAE66254817412       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_torso_emis.dds"
+1,448,087,812ms ID:0001358B Pr:0505200F           128 +     1,048,576 70EF8BB7E6F363A23FAAE66254817412       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_torso_emis.dds"
+1,448,087,812ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,087,812ms ID:0001358B Pr:0505200F           128 +     1,048,576 70EF8BB7E6F363A23FAAE66254817412 (803) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_torso_emis.dds"
+1,448,087,812ms ID:00013585 Pr:0505200F           128 +       262,144 9D4E18DFEFEB28A63E10F0480ED4B5A5 (802) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\lensflare_textureset.dds"
+1,448,088,484ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,088,484ms ID:0001358B Pr:0505200F           128 +     1,048,576 70EF8BB7E6F363A23FAAE66254817412 (803) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_torso_emis.dds"
+1,448,088,484ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,088,484ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,088,484ms                                                                                              s_pauseEvent.set()
+1,448,088,484ms                                                                                              s_pauseEvent.reset()
+1,448,088,484ms ID:000135A6 Pr:0505200F           128 +        65,536 3E7B729CD6DFD108F70DB2640603C952       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smoke_wispy11.dds"
+1,448,088,484ms ID:000135A6 Pr:0505200F           128 +        65,536 3E7B729CD6DFD108F70DB2640603C952       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smoke_wispy11.dds"
+1,448,088,484ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,088,484ms ID:000135A6 Pr:0505200F           128 +        65,536 3E7B729CD6DFD108F70DB2640603C952 (804) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smoke_wispy11.dds"
+1,448,088,484ms ID:0001358B Pr:0505200F           128 +     1,048,576 70EF8BB7E6F363A23FAAE66254817412 (803) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_torso_emis.dds"
+1,448,088,750ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,088,750ms ID:000135A6 Pr:0505200F           128 +        65,536 3E7B729CD6DFD108F70DB2640603C952 (804) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smoke_wispy11.dds"
+1,448,088,750ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,088,750ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,088,750ms                                                                                              s_pauseEvent.set()
+1,448,088,750ms                                                                                              s_pauseEvent.reset()
+1,448,088,750ms ID:000135AB Pr:0505200F           128 +       262,144 8679DCBE9A4E51386578067FC93B318F       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\fractalsmoke1.dds"
+1,448,088,750ms ID:000135AB Pr:0505200F           128 +       262,144 8679DCBE9A4E51386578067FC93B318F       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\fractalsmoke1.dds"
+1,448,088,750ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,088,750ms ID:000135AB Pr:0505200F           128 +       262,144 8679DCBE9A4E51386578067FC93B318F (805) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\fractalsmoke1.dds"
+1,448,088,750ms ID:000135A6 Pr:0505200F           128 +        65,536 3E7B729CD6DFD108F70DB2640603C952 (804) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smoke_wispy11.dds"
+1,448,089,031ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,089,031ms ID:000135AB Pr:0505200F           128 +       262,144 8679DCBE9A4E51386578067FC93B318F (805) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\fractalsmoke1.dds"
+1,448,089,031ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,089,031ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,089,031ms                                                                                              s_pauseEvent.set()
+1,448,089,031ms                                                                                              s_pauseEvent.reset()
+1,448,089,031ms ID:000135C8 Pr:0505200F           128 +     1,048,576 A7A8059BAA4559F198B0DEB64C22B331       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_head_emis.dds"
+1,448,089,031ms ID:000135C8 Pr:0505200F           128 +     1,048,576 A7A8059BAA4559F198B0DEB64C22B331       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_head_emis.dds"
+1,448,089,031ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,089,031ms ID:000135C8 Pr:0505200F           128 +     1,048,576 A7A8059BAA4559F198B0DEB64C22B331 (806) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_head_emis.dds"
+1,448,089,031ms ID:000135AB Pr:0505200F           128 +       262,144 8679DCBE9A4E51386578067FC93B318F (805) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\fractalsmoke1.dds"
+1,448,089,125ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,089,125ms ID:000135C8 Pr:0505200F           128 +     1,048,576 A7A8059BAA4559F198B0DEB64C22B331 (806) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_head_emis.dds"
+1,448,089,125ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,089,125ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,089,125ms                                                                                              s_pauseEvent.set()
+1,448,089,125ms                                                                                              s_pauseEvent.reset()
+1,448,089,125ms ID:000135C9 Pr:0505200F           128 +     1,048,576 A0AC9101545D5637FB69F71CD8B80317       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_ki_head_ao.dds"
+1,448,089,125ms ID:000135C9 Pr:0505200F           128 +     1,048,576 A0AC9101545D5637FB69F71CD8B80317       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_ki_head_ao.dds"
+1,448,089,125ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,089,125ms ID:000135C9 Pr:0505200F           128 +     1,048,576 A0AC9101545D5637FB69F71CD8B80317 (807) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_ki_head_ao.dds"
+1,448,089,125ms ID:000135C8 Pr:0505200F           128 +     1,048,576 A7A8059BAA4559F198B0DEB64C22B331 (806) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_head_emis.dds"
+1,448,090,156ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,090,156ms ID:000135C9 Pr:0505200F           128 +     1,048,576 A0AC9101545D5637FB69F71CD8B80317 (807) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_ki_head_ao.dds"
+1,448,090,156ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,090,156ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,090,156ms                                                                                              s_pauseEvent.set()
+1,448,090,156ms                                                                                              s_pauseEvent.reset()
+1,448,090,156ms ID:000135D7 Pr:0505200F           128 +     1,048,576 37B47221568A9AE220B671478F6E0702       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_legswings_emis.dds"
+1,448,090,156ms ID:000135D7 Pr:0505200F           128 +     1,048,576 37B47221568A9AE220B671478F6E0702       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_legswings_emis.dds"
+1,448,090,156ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,090,156ms ID:000135D7 Pr:0505200F           128 +     1,048,576 37B47221568A9AE220B671478F6E0702 (808) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_legswings_emis.dds"
+1,448,090,156ms ID:000135C9 Pr:0505200F           128 +     1,048,576 A0AC9101545D5637FB69F71CD8B80317 (807) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_ki_head_ao.dds"
+1,448,090,859ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,090,859ms ID:000135D7 Pr:0505200F           128 +     1,048,576 37B47221568A9AE220B671478F6E0702 (808) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_legswings_emis.dds"
+1,448,090,859ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,090,859ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,090,859ms                                                                                              s_pauseEvent.set()
+1,448,090,859ms                                                                                              s_pauseEvent.reset()
+1,448,090,859ms ID:000135DE Pr:0505200F           128 +       131,072 02DF8E5250D109E5E94C0A641094273C       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_dirt3.dds"
+1,448,090,859ms ID:000135DE Pr:0505200F           128 +       131,072 02DF8E5250D109E5E94C0A641094273C       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_dirt3.dds"
+1,448,090,859ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,090,859ms ID:000135DE Pr:0505200F           128 +       131,072 02DF8E5250D109E5E94C0A641094273C (809) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_dirt3.dds"
+1,448,090,859ms ID:000135D7 Pr:0505200F           128 +     1,048,576 37B47221568A9AE220B671478F6E0702 (808) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\smx1_ki_legswings_emis.dds"
+1,448,091,531ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,091,531ms ID:000135DE Pr:0505200F           128 +       131,072 02DF8E5250D109E5E94C0A641094273C (809) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_dirt3.dds"
+1,448,091,531ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,091,531ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,091,531ms                                                                                              s_pauseEvent.set()
+1,448,091,531ms                                                                                              s_pauseEvent.reset()
+1,448,091,531ms ID:000135E5 Pr:0505200F           128 +       262,144 DB6C0DA20A23A80DDE61A29D6DCC34FE       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_whiskey_norm.dds"
+1,448,091,531ms ID:000135E5 Pr:0505200F           128 +       262,144 DB6C0DA20A23A80DDE61A29D6DCC34FE       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_whiskey_norm.dds"
+1,448,091,531ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,091,531ms ID:000135E5 Pr:0505200F           128 +       262,144 DB6C0DA20A23A80DDE61A29D6DCC34FE (810) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_whiskey_norm.dds"
+1,448,091,531ms ID:000135DE Pr:0505200F           128 +       131,072 02DF8E5250D109E5E94C0A641094273C (809) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_dirt3.dds"
+1,448,091,718ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,091,718ms ID:000135E5 Pr:0505200F           128 +       262,144 DB6C0DA20A23A80DDE61A29D6DCC34FE (810) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_whiskey_norm.dds"
+1,448,091,718ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,091,718ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,091,718ms                                                                                              s_pauseEvent.set()
+1,448,091,718ms                                                                                              s_pauseEvent.reset()
+1,448,091,718ms ID:000135FB Pr:0505200F           128 +     1,048,576 CE917A504A0398EBBF0C19C47DDA6517       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_torso_n.dds"
+1,448,091,718ms ID:000135FB Pr:0505200F           128 +     1,048,576 CE917A504A0398EBBF0C19C47DDA6517       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_torso_n.dds"
+1,448,091,718ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,091,718ms ID:000135FB Pr:0505200F           128 +     1,048,576 CE917A504A0398EBBF0C19C47DDA6517 (811) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_torso_n.dds"
+1,448,091,718ms ID:000135E5 Pr:0505200F           128 +       262,144 DB6C0DA20A23A80DDE61A29D6DCC34FE (810) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_marsarabarprops_whiskey_norm.dds"
+1,448,092,265ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,092,265ms ID:000135FB Pr:0505200F           128 +     1,048,576 CE917A504A0398EBBF0C19C47DDA6517 (811) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_torso_n.dds"
+1,448,092,265ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,092,265ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,092,265ms                                                                                              s_pauseEvent.set()
+1,448,092,265ms                                                                                              s_pauseEvent.reset()
+1,448,092,265ms ID:000135FE Pr:0505200F           128 +         8,192 7A78A5A0846B8A46EB1D326B3E544B61       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_alpha.dds"
+1,448,092,265ms ID:000135FE Pr:0505200F           128 +         8,192 7A78A5A0846B8A46EB1D326B3E544B61       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_alpha.dds"
+1,448,092,265ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,092,265ms                                                                                              NGDP:AsyncMakeLocal(): E_SUCCESS, CAsync* 0x000001AEA59729A0
+1,448,092,265ms ID:000135FE Pr:0505200F           128 +         8,192 7A78A5A0846B8A46EB1D326B3E544B61       MakeLocalCallback(): Succeeded (immediate) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_alpha.dds"
+1,448,092,265ms ID:000135FE Pr:0505200F           128 +         8,192 7A78A5A0846B8A46EB1D326B3E544B61       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_alpha.dds"
+1,448,092,265ms ID:000135FB Pr:0505200F           128 +     1,048,576 CE917A504A0398EBBF0C19C47DDA6517 (811) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_torso_n.dds"
+1,448,092,265ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,092,265ms                                                                                              s_pauseEvent.set()
+1,448,092,265ms                                                                                              s_pauseEvent.reset()
+1,448,092,265ms ID:00013608 Pr:0505200F           128 +     2,097,152 C3FFDAD64C45F275C9F912BFDB4FE992       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_hair_norm.dds"
+1,448,092,265ms ID:00013608 Pr:0505200F           128 +     2,097,152 C3FFDAD64C45F275C9F912BFDB4FE992       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_hair_norm.dds"
+1,448,092,265ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,092,265ms ID:00013608 Pr:0505200F           128 +     2,097,152 C3FFDAD64C45F275C9F912BFDB4FE992 (812) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_hair_norm.dds"
+1,448,092,265ms ID:000135FE Pr:0505200F           128 +         8,192 7A78A5A0846B8A46EB1D326B3E544B61       ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_alpha.dds"
+1,448,096,625ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,096,625ms ID:00013608 Pr:0505200F           128 +     2,097,152 C3FFDAD64C45F275C9F912BFDB4FE992 (812) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_hair_norm.dds"
+1,448,096,625ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,096,625ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,096,625ms                                                                                              s_pauseEvent.set()
+1,448,096,625ms                                                                                              s_pauseEvent.reset()
+1,448,096,625ms ID:00013613 Pr:0505200F           128 +     1,048,576 FDF75EFB979EA91F66AB3FBF848EDDA3       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_norm.dds"
+1,448,096,625ms ID:00013613 Pr:0505200F           128 +     1,048,576 FDF75EFB979EA91F66AB3FBF848EDDA3       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_norm.dds"
+1,448,096,625ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,096,625ms ID:00013613 Pr:0505200F           128 +     1,048,576 FDF75EFB979EA91F66AB3FBF848EDDA3 (813) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_norm.dds"
+1,448,096,625ms ID:00013608 Pr:0505200F           128 +     2,097,152 C3FFDAD64C45F275C9F912BFDB4FE992 (812) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_hair_norm.dds"
+1,448,101,781ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,101,781ms ID:00013613 Pr:0505200F           128 +     1,048,576 FDF75EFB979EA91F66AB3FBF848EDDA3 (813) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_norm.dds"
+1,448,101,781ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,101,781ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,101,781ms                                                                                              s_pauseEvent.set()
+1,448,101,781ms                                                                                              s_pauseEvent.reset()
+1,448,101,781ms ID:00013618 Pr:0505200F           128 +     1,048,576 2B3A3233839E6F040D9446F381612F9B       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\t1_sm_jr_pants_n.dds"
+1,448,101,781ms ID:00013618 Pr:0505200F           128 +     1,048,576 2B3A3233839E6F040D9446F381612F9B       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\t1_sm_jr_pants_n.dds"
+1,448,101,781ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,101,796ms ID:00013618 Pr:0505200F           128 +     1,048,576 2B3A3233839E6F040D9446F381612F9B (814) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\t1_sm_jr_pants_n.dds"
+1,448,101,796ms ID:00013613 Pr:0505200F           128 +     1,048,576 FDF75EFB979EA91F66AB3FBF848EDDA3 (813) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\sm_jr_head_norm.dds"
+1,448,103,390ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,103,390ms ID:00013618 Pr:0505200F           128 +     1,048,576 2B3A3233839E6F040D9446F381612F9B (814) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\t1_sm_jr_pants_n.dds"
+1,448,103,390ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,103,390ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,103,390ms                                                                                              s_pauseEvent.set()
+1,448,103,390ms                                                                                              s_pauseEvent.reset()
+1,448,103,390ms ID:00013634 Pr:0505200F           128 +     1,048,576 0BC3E4E938E925E7F59818714A563F09       CDownloadStarter::StartDownload(): Starting Download "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\flare_aiurcompletenebula03.dds"
+1,448,103,390ms ID:00013634 Pr:0505200F           128 +     1,048,576 0BC3E4E938E925E7F59818714A563F09       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\flare_aiurcompletenebula03.dds"
+1,448,103,390ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,103,390ms ID:00013634 Pr:0505200F           128 +     1,048,576 0BC3E4E938E925E7F59818714A563F09 (815) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\flare_aiurcompletenebula03.dds"
+1,448,103,390ms ID:00013618 Pr:0505200F           128 +     1,048,576 2B3A3233839E6F040D9446F381612F9B (814) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\t1_sm_jr_pants_n.dds"
+1,448,104,093ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,104,093ms ID:00013634 Pr:0505200F           128 +     1,048,576 0BC3E4E938E925E7F59818714A563F09 (815) MakeLocalCallback(): Succeeded (deferred) "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\flare_aiurcompletenebula03.dds"
+1,448,104,093ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,104,093ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,104,093ms                                                                                              s_pauseEvent.set()
+1,448,104,093ms                                                                                              s_pauseEvent.reset()
+1,448,104,093ms ID:00013666 Pr:0505200F           128 +     1,048,576 3D9A74BF2DBCEEC0B4219EE4A1DA3C74       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\mainmenuswarmbg_low.dds"
+1,448,104,093ms ID:00013666 Pr:0505200F           128 +     1,048,576 3D9A74BF2DBCEEC0B4219EE4A1DA3C74       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\mainmenuswarmbg_low.dds"
+1,448,104,093ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,104,093ms ID:00013666 Pr:0505200F           128 +     1,048,576 3D9A74BF2DBCEEC0B4219EE4A1DA3C74 (816) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\mainmenuswarmbg_low.dds"
+1,448,104,093ms ID:00013634 Pr:0505200F           128 +     1,048,576 0BC3E4E938E925E7F59818714A563F09 (815) ReleaseRequest(): Success "Mods\Liberty.SC2Mod\Base.SC2Assets" "assets\textures\flare_aiurcompletenebula03.dds"
+1,448,108,343ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,108,343ms ID:00013666 Pr:0505200F           128 +     1,048,576 3D9A74BF2DBCEEC0B4219EE4A1DA3C74 (816) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\mainmenuswarmbg_low.dds"
+1,448,108,343ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,108,343ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,108,343ms                                                                                              s_pauseEvent.set()
+1,448,108,343ms                                                                                              s_pauseEvent.reset()
+1,448,108,343ms ID:0001366B Pr:0505200F           128 +       131,072 1B551579B95D852F9D96FBF6780FB72D       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewzerusvolcanoblur2_diff.dds"
+1,448,108,343ms ID:0001366B Pr:0505200F           128 +       131,072 1B551579B95D852F9D96FBF6780FB72D       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewzerusvolcanoblur2_diff.dds"
+1,448,108,343ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,108,343ms ID:0001366B Pr:0505200F           128 +       131,072 1B551579B95D852F9D96FBF6780FB72D (817) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewzerusvolcanoblur2_diff.dds"
+1,448,108,343ms ID:00013666 Pr:0505200F           128 +     1,048,576 3D9A74BF2DBCEEC0B4219EE4A1DA3C74 (816) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\mainmenuswarmbg_low.dds"
+1,448,108,703ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,108,703ms ID:0001366B Pr:0505200F           128 +       131,072 1B551579B95D852F9D96FBF6780FB72D (817) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewzerusvolcanoblur2_diff.dds"
+1,448,108,703ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,108,703ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,108,703ms                                                                                              s_pauseEvent.set()
+1,448,108,703ms                                                                                              s_pauseEvent.reset()
+1,448,108,703ms ID:00013672 Pr:0505200F           128 +     1,048,576 91330305EF3FBAED705E379AEA777792       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrgasgiant_diff.dds"
+1,448,108,703ms ID:00013672 Pr:0505200F           128 +     1,048,576 91330305EF3FBAED705E379AEA777792       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrgasgiant_diff.dds"
+1,448,108,703ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,108,703ms ID:00013672 Pr:0505200F           128 +     1,048,576 91330305EF3FBAED705E379AEA777792 (818) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrgasgiant_diff.dds"
+1,448,108,703ms ID:0001366B Pr:0505200F           128 +       131,072 1B551579B95D852F9D96FBF6780FB72D (817) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewzerusvolcanoblur2_diff.dds"
+1,448,113,750ms                                                                                              NGDP:AsyncCompletion(): , CAsync* 0x000001AEA59729A0
+1,448,113,750ms ID:00013672 Pr:0505200F           128 +     1,048,576 91330305EF3FBAED705E379AEA777792 (818) MakeLocalCallback(): Succeeded (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrgasgiant_diff.dds"
+1,448,113,750ms                                                                                              NGDP:AsyncCompletion(), CAsync* 0x000001AEA59729A0 DecrementRefCount()
+1,448,113,750ms                                                                                              NGDP: CAsync::Destroy() 0x000001AEA59729A0
+1,448,113,750ms                                                                                              s_pauseEvent.set()
+1,448,113,750ms                                                                                              s_pauseEvent.reset()
+1,448,113,750ms ID:00013676 Pr:0505200F           128 +       131,072 6F6A5559EF2EFB9A37E8B42AFC82D28D       CDownloadStarter::StartDownload(): Starting Download "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrmoon_mask.dds"
+1,448,113,750ms ID:00013676 Pr:0505200F           128 +       131,072 6F6A5559EF2EFB9A37E8B42AFC82D28D       ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <enter> "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrmoon_mask.dds"
+1,448,113,750ms                                                                                              NGDP: CAsync::Create() 0x000001AEA59729A0
+1,448,113,750ms ID:00013676 Pr:0505200F           128 +       131,072 6F6A5559EF2EFB9A37E8B42AFC82D28D (819) ~CDownloadStarter(): NNGDP::AsyncMakeLocal() <leave> succeeded  "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrmoon_mask.dds"
+1,448,113,750ms ID:00013672 Pr:0505200F           128 +     1,048,576 91330305EF3FBAED705E379AEA777792 (818) ReleaseRequest(): Success "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrgasgiant_diff.dds"
+1,448,117,062ms                                                                                              NGDP:AsyncCompletion(): NGDP:E_NOT_AVAILABLE, CAsync* 0x000001AEA59729A0
+1,448,117,062ms ID:00013676 Pr:0505200F           128 +       131,072 6F6A5559EF2EFB9A37E8B42AFC82D28D (819) MakeLocalCallback(): Failed (deferred) "Mods\Core.SC2Mod\Base.SC2Assets" "assets\textures\planetviewkaldrmoon_mask.dds"

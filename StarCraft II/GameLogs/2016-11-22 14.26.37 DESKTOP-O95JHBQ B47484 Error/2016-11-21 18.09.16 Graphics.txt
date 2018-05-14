@@ -1,0 +1,200 @@
+﻿GFX  18:09:16.742 ====================================================================================================
+GFX  18:09:16.742 StarCraft II (B47484)
+GFX  18:09:16.742 
+GFX  18:09:16.742 Executable              C:\Program Files (x86)\StarCraft II\Versions\Base47185\SC2_x64.exe
+GFX  18:09:16.742 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  18:09:16.742 Parent Executable       \Device\HarddiskVolume4\Program Files (x86)\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  18:09:16.742 Grandparent Executable  \Device\HarddiskVolume4\Program Files (x86)\Battle.net\Battle.net.8142\Battle.net.exe
+GFX  18:09:16.742 LocalTime               2016-11-21 18:09:16.742
+GFX  18:09:16.742 <ComputerUser>          Ross
+GFX  18:09:16.742 <ComputerName>          DESKTOP-O95JHBQ
+GFX  18:09:16.742 <Exe.Architecture>      x86_64
+GFX  18:09:16.742 <Version>               3.7.1.47484
+GFX  18:09:16.742 <DataBuild>             B47484
+GFX  18:09:16.742 <CodeBranch>            branches/SC2.3.7
+GFX  18:09:16.742 <CodeRevision>          338210
+GFX  18:09:16.742 <Locale.Assets>         enUS
+GFX  18:09:16.742 <Locale.Data>           enUS
+GFX  18:09:16.742 <Locale.Install>        enUS
+GFX  18:09:16.742 <AccountCountry>        
+GFX  18:09:16.742 <AgentVersion>          2.8.1.5296
+GFX  18:09:16.742 ====================================================================================================
+GFX  18:09:16.742 DXGI: Available
+GFX  18:09:17.495 Resource Cache Override Variable: 0MB
+GFX  18:09:17.495 Resource Cache: 512MB Win64 (6067MB Physical, 1090MB Process Virtual)
+GFX  18:09:17.495 Resource Cache Sound:  51MB 
+GFX  18:09:17.495 Resource Cache Common: 460MB 
+GFX  18:09:17.495 Resource Cache VRam:   0MB
+GFX  18:09:17.499 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  18:09:17.499 Adapter [0]: Intel(R) HD Graphics Family (VendorID 0x8086 DeviceID 0xa16)
+GFX  18:09:17.499 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xa16)
+GFX  18:09:22.052 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  18:09:22.052 CreateDevice succeeded
+GFX  18:09:22.052 Using adapter [0]
+GFX  18:09:22.052 Floating point render targets supported.
+GFX  18:09:22.469 DXGI Adapter Name: Intel(R) HD Graphics Family
+GFX  18:09:22.469 VRAM Detected: Dedicated [112MB] Shared [3033MB] (DXGI)
+GFX  18:09:22.469 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  18:09:22.470 Initialized D3D9 GraphicsDevice: Intel(R) HD Graphics Family (Driver Version: 10.18.15.4248, VRAM: 112MB, SVMEM: 3033MB).
+GFX  18:09:22.474 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  18:09:22.676 Expanded VRAM to 512MB for Intel GPU
+GFX  18:09:22.676 VRAM texture space: 384MB
+GFX  18:09:51.506 PerfNotifiers initialized
+GFX  18:13:53.324 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  18:13:59.456 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  18:13:59.456 DirectX call  failed with error code -2005530519
+GFX  18:13:59.456 Lost D3D9 device
+GFX  18:14:00.879 
+GFX  18:14:00.879 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  18:14:52.854 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  18:14:52.854 DirectX call  failed with error code -2005530519
+GFX  18:14:52.854 Lost D3D9 device
+GFX  18:14:54.292 
+GFX  18:14:54.292 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  18:15:08.093 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  18:15:08.093 DirectX call  failed with error code -2005530519
+GFX  18:15:08.093 Lost D3D9 device
+GFX  18:15:09.526 
+GFX  18:15:09.526 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  18:15:55.331 Lost D3D9 device
+GFX  18:15:56.644 
+GFX  18:15:56.644 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:15:56.645 Lost D3D9 device
+GFX  18:15:57.271 
+GFX  18:15:57.271 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:15:57.271 Lost D3D9 device
+GFX  18:15:57.821 
+GFX  18:15:57.821 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  18:16:12.480 Lost D3D9 device
+GFX  18:16:12.531 
+GFX  18:16:12.531 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:16:12.545 Lost D3D9 device
+GFX  18:16:13.050 
+GFX  18:16:13.050 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:16:13.050 Lost D3D9 device
+GFX  18:16:13.502 
+GFX  18:16:13.502 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  18:35:36.780 Lost D3D9 device
+GFX  18:35:36.926 
+GFX  18:35:36.926 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:39.029 Lost D3D9 device
+GFX  18:35:39.078 
+GFX  18:35:39.078 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:46.113 Lost D3D9 device
+GFX  18:35:46.156 
+GFX  18:35:46.156 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:46.195 Lost D3D9 device
+GFX  18:35:46.657 
+GFX  18:35:46.657 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:46.659 Lost D3D9 device
+GFX  18:35:47.168 
+GFX  18:35:47.168 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:47.171 Lost D3D9 device
+GFX  18:35:47.658 
+GFX  18:35:47.658 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:47.780 Lost D3D9 device
+GFX  18:35:48.083 
+GFX  18:35:48.083 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:48.085 Lost D3D9 device
+GFX  18:35:48.621 
+GFX  18:35:48.621 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:48.624 Lost D3D9 device
+GFX  18:35:49.179 
+GFX  18:35:49.179 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:56.236 Lost D3D9 device
+GFX  18:35:56.286 
+GFX  18:35:56.286 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  18:35:59.649 Lost D3D9 device
+GFX  18:35:59.692 
+GFX  18:35:59.692 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  19:10:21.430 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  19:10:25.955 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  19:10:25.955 DirectX call  failed with error code -2005530519
+GFX  19:10:25.955 Lost D3D9 device
+GFX  19:10:26.272 
+GFX  19:10:26.272 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  19:26:33.646 Lost D3D9 device
+GFX  19:26:33.803 
+GFX  19:26:33.803 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  20:36:37.288 Windows Timeout Detection and Recovery (TDR) detected!
+GFX  21:25:04.481 Windows Timeout Detection and Recovery (TDR) detected!
+GFX  21:35:53.655 Lost D3D9 device
+GFX  21:35:54.119 
+GFX  21:35:54.119 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:21:41.809 Lost D3D9 device
+GFX  22:21:42.126 
+GFX  22:21:42.126 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:21:42.129 Lost D3D9 device
+GFX  22:21:44.433 
+GFX  22:21:44.433 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:21:44.439 Lost D3D9 device
+GFX  22:21:46.958 
+GFX  22:21:46.958 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:21:46.961 Lost D3D9 device
+GFX  22:21:49.326 
+GFX  22:21:49.326 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:21:49.329 Lost D3D9 device
+GFX  22:21:51.702 
+GFX  22:21:51.702 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:21:51.708 Lost D3D9 device
+GFX  22:21:54.064 
+GFX  22:21:54.064 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:48:57.314 Lost D3D9 device
+GFX  22:48:57.526 
+GFX  22:48:57.526 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:48:57.532 Lost D3D9 device
+GFX  22:48:59.212 
+GFX  22:48:59.212 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:48:59.216 Lost D3D9 device
+GFX  22:49:01.100 
+GFX  22:49:01.100 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:35:04.630 Lost D3D9 device
+GFX  23:35:04.962 
+GFX  23:35:04.962 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:35:04.969 Lost D3D9 device
+GFX  23:35:06.681 
+GFX  23:35:06.681 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:35:06.684 Lost D3D9 device
+GFX  23:35:08.525 
+GFX  23:35:08.525 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:35:08.528 Lost D3D9 device
+GFX  23:35:10.500 
+GFX  23:35:10.500 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:35:10.503 Lost D3D9 device
+GFX  23:35:12.373 
+GFX  23:35:12.373 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:35:12.378 Lost D3D9 device
+GFX  23:35:14.000 
+GFX  23:35:14.000 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:38:47.330 Lost D3D9 device
+GFX  23:38:47.575 
+GFX  23:38:47.575 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:38:47.582 Lost D3D9 device
+GFX  23:38:49.269 
+GFX  23:38:49.269 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  23:38:49.275 Lost D3D9 device
+GFX  23:38:51.038 
+GFX  23:38:51.038 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  01:16:35.495 Lost D3D9 device
+GFX  01:16:35.978 
+GFX  01:16:35.978 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  02:57:03.805 Lost D3D9 device
+GFX  02:57:04.101 
+GFX  02:57:04.101 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  03:34:04.191 PerfNotifier: [ResourceCache] [Evicted] Occurrences [1] Peak [99.875000]
+GFX  03:34:04.191 PerfNotifier: [ResourceCache] [TexturePanics] Occurrences [1] Peak [2.000000]
+GFX  03:35:54.619 Lost D3D9 device
+GFX  03:35:54.841 
+GFX  03:35:54.841 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  04:31:59.504 Lost D3D9 device
+GFX  04:32:00.187 
+GFX  04:32:00.187 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  06:18:52.884 Lost D3D9 device
+GFX  06:18:53.461 
+GFX  06:18:53.461 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  09:06:39.314 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  09:06:39.317 DirectX call  failed with error code -2005530519
+GFX  09:06:39.317 Lost D3D9 device
+GFX  09:06:41.597 Windows Timeout Detection and Recovery (TDR) detected!
+GFX  09:06:54.283 
+GFX  09:06:54.283 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)

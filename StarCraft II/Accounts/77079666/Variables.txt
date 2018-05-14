@@ -1,0 +1,6 @@
+completedCampaignMask=1
+hotkeyprofile=ASD
+LastCampaignId[1]=1
+MeleeHelpIntroCount=3
+OptionRevisionAccount=0
+subtitles=1
